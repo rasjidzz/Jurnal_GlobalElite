@@ -6,3 +6,6 @@ a.ReadJSON();
 Console.WriteLine("");
 TeamMembers_1302210106_SteventRangga b = new TeamMembers_1302210106_SteventRangga();
 b.ReadJson();
+Console.WriteLine("");
+GlossaryItem_1302210106_SteventRangga c = new GlossaryItem_1302210106_SteventRangga();
+c.ReadJson();
