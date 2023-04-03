@@ -1,0 +1,17 @@
+{
+   "firstName": "Zhafran",
+   "lastName": "Hafizh",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Poris",
+       "city": "Tangerang",
+       "state": "Banten"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+    {
+      "code": "CIIB4", "name": "Pemrograman Berbasis Objek"
+    }
+   ]
+}
