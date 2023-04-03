@@ -8,3 +8,8 @@ Console.WriteLine("");
 
 TeamMembers_1302210036 elit = new TeamMembers_1302210036();
 elit.ReadJSON();
+
+Console.WriteLine("");
+
+GlossaryItem gloss = new GlossaryItem();
+gloss.ReadJson();
