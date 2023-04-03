@@ -34,6 +34,13 @@
       "gender": "male",
       "age": 19,
       "nim": "1302210087"
+    },
+    {
+      "firstName": "Surya",
+      "lastName": "Aulia",
+      "gender": "male",
+      "age": 19,
+      "nim": "1302210084"
     }
   ]
 }
