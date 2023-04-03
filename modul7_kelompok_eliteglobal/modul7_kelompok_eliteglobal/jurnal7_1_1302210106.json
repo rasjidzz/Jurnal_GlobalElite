@@ -1,0 +1,15 @@
+{
+   "firstName": "Stevent",
+   "lastName": "Rangga",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Jl.umar",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CII3B4", "name": "OOP" }
+   ]
+}
