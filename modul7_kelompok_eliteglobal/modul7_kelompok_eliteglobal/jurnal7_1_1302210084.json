@@ -1,0 +1,15 @@
+{
+   "firstName": "Surya",
+   "lastName": "Aulia",
+   "gender": "male",
+   "age": 25,
+   "address": {
+       "streetAddress": "Bojongsoang",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CII3B4", "name": "Pemrograman Beroirentasi Object" }
+   ]
+}
