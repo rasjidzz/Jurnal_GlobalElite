@@ -23,7 +23,7 @@
     },
     {
       "firstName": "Zhafran",
-      "lastName": "Hafiz",
+      "lastName": "Hafizh",
       "gender": "male",
       "age": 21,
       "nim": "1302210036"
