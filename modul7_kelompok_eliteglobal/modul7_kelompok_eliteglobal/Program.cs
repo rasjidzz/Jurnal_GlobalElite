@@ -6,3 +6,6 @@ sa.ReadJSON();
 
 TeamMembers_1302210084 sb = new TeamMembers_1302210084();
 sb.ReadJSON();
+
+GlossaryItem_1302210084 sc = new GlossaryItem_1302210084();
+sc.ReadJSON();
