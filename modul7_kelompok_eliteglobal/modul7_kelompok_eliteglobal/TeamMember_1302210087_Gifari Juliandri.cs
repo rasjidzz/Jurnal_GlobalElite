@@ -21,6 +21,6 @@ namespace modul7_kelompok_eliteglobal
                 Console.WriteLine($" {iftar} {members.nim}-{members.firstName} {members.lastName}, umur: {members.age}, gender: {members.gender}  ");
                 iftar++;
             }
-        }
+        }   
     }
 }
