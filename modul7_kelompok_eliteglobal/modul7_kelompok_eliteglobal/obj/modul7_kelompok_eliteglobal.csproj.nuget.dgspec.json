@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Jurnal_GlobalElite\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal.csproj": {}
+    "E:\\jurnal\\Jurnal_GlobalElite\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal.csproj": {}
   },
   "projects": {
-    "D:\\Jurnal_GlobalElite\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal.csproj": {
+    "E:\\jurnal\\Jurnal_GlobalElite\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Jurnal_GlobalElite\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal.csproj",
+        "projectUniqueName": "E:\\jurnal\\Jurnal_GlobalElite\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal.csproj",
         "projectName": "modul7_kelompok_eliteglobal",
-        "projectPath": "D:\\Jurnal_GlobalElite\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal.csproj",
+        "projectPath": "E:\\jurnal\\Jurnal_GlobalElite\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal.csproj",
         "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-        "outputPath": "D:\\Jurnal_GlobalElite\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal\\obj\\",
+        "outputPath": "E:\\jurnal\\Jurnal_GlobalElite\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PRAKTIKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
