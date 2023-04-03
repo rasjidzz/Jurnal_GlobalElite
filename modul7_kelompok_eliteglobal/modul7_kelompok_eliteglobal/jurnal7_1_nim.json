@@ -1,0 +1,15 @@
+{
+   "firstName": "Risjad",
+   "lastName": "Shidqi",
+   "gender": "Male",
+   "age": 21,
+   "address": {
+       "streetAddress": "Sukabirus",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRJ2H3", "name": "Pengalaman Pengguna" }
+   ]
+}
