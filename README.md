@@ -29,7 +29,7 @@
       "nim": "1302210036"
     },
     {
-      "firstName": "Gifhari",
+      "firstName": "Gifari",
       "lastName": "Juliandri",
       "gender": "male",
       "age": 19,
