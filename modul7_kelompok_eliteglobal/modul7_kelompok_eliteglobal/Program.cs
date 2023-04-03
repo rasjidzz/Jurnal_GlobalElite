@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using modul7_kelompok_eliteglobal;
+
+DataMahasiswa_1302210087_GifariJuliandri x = new DataMahasiswa_1302210087_GifariJuliandri();
+x.ReadJSON();
