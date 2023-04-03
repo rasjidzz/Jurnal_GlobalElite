@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal.csproj": {}
+    "E:\\jurnal\\Jurnal_GlobalElite\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal.csproj": {}
   },
   "projects": {
-    "E:\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal.csproj": {
+    "E:\\jurnal\\Jurnal_GlobalElite\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal.csproj",
+        "projectUniqueName": "E:\\jurnal\\Jurnal_GlobalElite\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal.csproj",
         "projectName": "modul7_kelompok_eliteglobal",
-        "projectPath": "E:\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal.csproj",
+        "projectPath": "E:\\jurnal\\Jurnal_GlobalElite\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal.csproj",
         "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-        "outputPath": "E:\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal\\obj\\",
+        "outputPath": "E:\\jurnal\\Jurnal_GlobalElite\\modul7_kelompok_eliteglobal\\modul7_kelompok_eliteglobal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PRAKTIKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
