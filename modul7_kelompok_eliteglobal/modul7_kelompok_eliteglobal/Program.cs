@@ -1,12 +1,12 @@
-﻿using modul7_kelompok_eliteglobal;
+﻿// See https://aka.ms/new-console-template for more information
+using modul7_kelompok_eliteglobal;
 
-DataMahasiswa_1302210087_GifariJuliandri x = new DataMahasiswa_1302210087_GifariJuliandri();
-x.ReadJSON();
-Console.WriteLine("");
+DataMahasiswa_1302210084 sa = new DataMahasiswa_1302210084();
+sa.ReadJSON();
 
-TeamMember_1302210087_Gifari_Juliandri y = new TeamMember_1302210087_Gifari_Juliandri();
-y.ReadJSON();
-Console.WriteLine(" ");
+TeamMembers_1302210084 sb = new TeamMembers_1302210084();
+sb.ReadJSON();
 
-GlossaryItem_1302210087_GifariJuliandri z = new GlossaryItem_1302210087_GifariJuliandri();
-z.ReadJSON();
+GlossaryItem_1302210084 sc = new GlossaryItem_1302210084();
+sc.ReadJSON();
+
